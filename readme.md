@@ -14,6 +14,7 @@ This test task is designed to evaluate frontend development skills in creating i
 
 - Any 3D or 2D framework of your choice
 - Project must be buildable and runnable locally with simple npm install / npm run dev commands
+
 **Optional**
 - Docker configuration for simplified setup
 
@@ -27,7 +28,7 @@ This test task is designed to evaluate frontend development skills in creating i
 
 - You can choose either the simple or advanced version based on your experience level
 - This task reflects real project requirements from our backlog
-- Focus on stable code over perfect visual implementation
+- Focus on stable and extendable code over perfect visual implementation
 
 ## Task Description
 
