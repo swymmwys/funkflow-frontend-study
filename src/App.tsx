@@ -1,7 +1,11 @@
-import './App.css'
+import { useEffect } from "react";
+import "./App.css";
+import { renderScene } from "./sample_scene";
 
 function App() {
-  return null
+  useEffect(renderScene, []);
+
+  return null;
 }
 
-export default App
+export default App;
